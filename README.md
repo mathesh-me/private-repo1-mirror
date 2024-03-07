@@ -1,2 +1,2 @@
-# private-repo1-mirror
-Mirror of Private Repository 1
+## Repository Description
+This repository is not useful for anyone other than myself. It was created for my own purpose.
